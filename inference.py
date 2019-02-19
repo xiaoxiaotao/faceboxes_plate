@@ -92,13 +92,7 @@ if __name__ == '__main__':
     data_encoder = DataEncoder()
 
     # given image path, predict and show
-    #root_path = "picture/"
-    #picture = 'timg.jpg'
-    #"rtsp://10.168.3.128/live_sub_6.sdp"
-    #testIm('/media/bozhon/ESD-USB/save_video/test5.mp4')
-    #testIm('/home/tao/opencv_save_video/save_video/test5.avi')
-    #testIm('/home/bozhon/桌面/plate_faceboxes/11.jpg')
-    #testIm('/home/tao/Desktop/plate_faceboxes/plate_refine/CCPD/        
+          
     testIm('/home/tao/Desktop/plate_faceboxes/ER00714.jpg')
 
 
